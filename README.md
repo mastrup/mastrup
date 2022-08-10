@@ -1,4 +1,4 @@
-### Hi there, I'm Søren Mastrup 👋
+### Hi there 👋
 Since 2013, I have worked professionally with Umbraco and along the way have become an [Umbraco certified master][umbracoprofile].
 
 ### Connect with me:
