@@ -12,7 +12,7 @@ Since 2013, I have worked professionally with Umbraco and along the way have bec
 ### Music
 If I am currently coding, I am coding to this lovely tune<br>
 <sup>Or my kids has taken over the playlist and I am listening to something crazy 😭</sup><br>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=113181947&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![Last.fm](https://badges.lastfm.workers.dev/last-played?user=mastrup&style=flat&color=informational)](https://www.last.fm/user/mastrup)
 
 [github]: https://github.com/mastrup
 [twitter]: https://twitter.com/mastrup
