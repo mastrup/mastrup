@@ -3,10 +3,10 @@ Since 2013, I have worked professionally with Umbraco and along the way have bec
 
 ### Connect with me:
 
-[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Last.fm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/last-dot-fm.svg" />][lastfm]
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" />][github]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Last.fm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lastdotfm.svg" />][lastfm]
 <br />
 
 ### Music
