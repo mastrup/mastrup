@@ -1,5 +1,9 @@
 ### Hi there 👋
-Since 2013, I have worked professionally with Umbraco and along the way have become an [Umbraco certified master][umbracoprofile].
+👋🏻 Hi, I'm Søren - a senior web developer with over 13 years of experience and a proven track record of leading technical teams in enterprise environments.
+
+For more than a decade I've specialised in Umbraco and .NET based solutions, leading development from planning to production. I manage external developers, coordinate cross-functional work and ensure delivery stays on track - all with a focus on code quality and maintainability.
+
+My expertise includes infrastructure as code with Terraform and Pulumi (TypeScript), CI/CD with Azure DevOps, and backend development in C#. I'm hands-on, but always focused on the bigger picture: scalable architecture, team efficiency, and delivering business value.
 
 ### Connect with me:
 
@@ -8,11 +12,6 @@ Since 2013, I have worked professionally with Umbraco and along the way have bec
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Last.fm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/lastdotfm.svg" />][lastfm]
 <br />
-
-### Music
-If I am currently coding, I am coding to this lovely tune<br>
-<sup>Or my kids has taken over the playlist and I am listening to something crazy 😭</sup><br>
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=mastrup&count=1&header_size=compact_stats_only)](https://www.last.fm/user/mastrup)
 
 [github]: https://github.com/mastrup
 [twitter]: https://twitter.com/mastrup
