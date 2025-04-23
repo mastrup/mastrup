@@ -1,5 +1,5 @@
-### Hi there 👋
-👋🏻 Hi, I'm Søren - a senior web developer with over 13 years of experience and a proven track record of leading technical teams in enterprise environments.
+### Hi there 👋🏻
+ I'm Søren - a senior web developer with over 13 years of experience and a proven track record of leading technical teams in enterprise environments.
 
 For more than a decade I've specialised in Umbraco and .NET based solutions, leading development from planning to production. I manage external developers, coordinate cross-functional work and ensure delivery stays on track - all with a focus on code quality and maintainability.
 
